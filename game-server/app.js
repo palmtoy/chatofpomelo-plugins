@@ -1,6 +1,6 @@
 var pomelo = require('pomelo');
 var routeUtil = require('./app/util/routeUtil');
-var globalChannel = require('pomelo-globalChannel-plugin');
+var globalChannel = require('pomelo-globalchannel-plugin');
 var status = require('pomelo-status-plugin');
 
 /**
